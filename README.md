@@ -54,6 +54,11 @@ Athena is an <strong>advanced Android firewall</strong> app designed with <a hre
 [<img src=".github/play_store.png" alt="Get it on Play Store" height="55">](https://play.google.com/store/apps/details?id=com.kin.athena) &nbsp;
 [<img src=".github/github.png" alt="Get it on Github" height="55">](https://github.com/Kin69/Athena/releases) &nbsp;
 
+[<img src=".github/obtainium.png" alt="Get it on Obtainium" height="55">](http://apps.obtainium.imranr.dev/redirect.html?r=obtainium://app/%7B%22id%22%3A%22com.kin.athena%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fkin-echo%2Fathena%22%2C%22author%22%3A%22kin-echo%22%2C%22name%22%3A%22Athena%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%7D%22%7D)
+
+
+
+
 ## Premium Activation
 
 If you prefer not to use Google services for premium purchases, you can buy a premium code securely via Ko-fi:
